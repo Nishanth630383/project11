@@ -7,3 +7,8 @@ function f(n)=
 
 ```
 Try a formula $f(n) = n/3$
+The list of marvel heros
+* Ironman
+* captain america
+*Thor
+*Hulk
