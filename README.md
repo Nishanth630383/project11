@@ -15,3 +15,24 @@ first avenger
   * Infinity war
 *Thor
 *Hulk
+
+1. Go to the store
+2. Buy Food
+  1. Rice (indented.. So start at 1)
+  6. Beans
+1. Come home
+2. After coming home
+3. And this should be the final line.
+
+2. Go to the store
+1. Buy Food
+1. Rice (indented.. So start at 1)
+1. Beans
+    1. Come home
+    1. After coming home
+    3. And this should be the final line.
+---------------------------------------------
+git hub [Git Hub](https://github.com)
+another md file [second md](second.md)
+-----------------------------------------------
+
