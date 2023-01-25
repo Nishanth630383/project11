@@ -36,3 +36,19 @@ git hub [Git Hub](https://github.com)
 another md file [second md](second.md)
 -----------------------------------------------
 
+This is a truth table
+| P | Q | P and Q |
+| ---: | :--- | :---: |
+| T | TTTTT | T |
+| T | F | F |
+| FFFFFF | T | F |
+| F | F | FFFFFFFFFFFFFFF|
+
+- [ ] item 1
+- [x] item 2 (it’s done!)
+- [ ] item 3
+
+~~Opps, didn’t mean to do this.~~
+
+$f(n)=(n+1)^{n+1}$
+
