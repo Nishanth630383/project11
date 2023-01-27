@@ -1,6 +1,6 @@
 ## New file
 
 Iron man
-![iron man](IM.jpeg)
+![iron man](Image.jpeg)
 
 I_am\_Ironman
